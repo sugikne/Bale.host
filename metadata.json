@@ -1,0 +1,8 @@
+{
+  "name": "Bale.Host Platform",
+  "description": "A premium website agency platform with integrated client portal, project management, and administrative dashboards.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
